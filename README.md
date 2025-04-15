@@ -57,7 +57,4 @@ Illustrates system components deployment across:
 - **Diagram Tool**: Lucidchart / Draw.io / StarUML  
 - **Documentation**: MS Word / PDF Export  
 
----
-
-## 📁 Repository Structure
 
